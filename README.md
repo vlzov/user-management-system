@@ -1,17 +1,11 @@
 # 🚀 User Management System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-3.x-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Marshmallow-Validation-FFB000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API-RESTful-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB.svg?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-3.x-000000.svg?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00.svg" />
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3.svg?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API-success.svg" />
 </p>
 
 Production-ready пример корпоративного веб-приложения, построенного по принципам чистой архитектуры и enterprise-разработки.
@@ -45,6 +39,48 @@ Production-ready пример корпоративного веб-приложе
 - Шаблон для корпоративных Flask-проектов
 - Портфолио-пример backend-разработчика
 - База для масштабируемого SaaS
+
+---
+
+## 📸 Превью
+
+### Главная страница
+
+<p align="center">
+  <img src="docs/images/dashboard.png" width="900"/>
+</p>
+
+---
+
+### Панель добавления/редактирования пользователя
+
+<p align="center">
+  <img src="docs/images/create-user.png" width="900"/>
+</p>
+
+---
+
+### Окна редактирования пользователя
+
+<p align="center">
+  <img src="docs/images/edit-user1.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="docs/images/edit-user2.png" width="900"/>
+</p>
+
+---
+
+### Удаление пользователя
+
+<p align="center">
+  <img src="docs/images/delete-user1.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="docs/images/delete-user2.png" width="900"/>
+</p>
 
 ---
 
