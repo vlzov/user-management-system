@@ -146,7 +146,7 @@ Backend REST API
 # 📂 Структура проекта
 
 ```
-corporate_app/
+user-management-system/
 │
 ├── backend/
 │   ├── app/
