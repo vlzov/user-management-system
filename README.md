@@ -1,5 +1,19 @@
 # 🚀 User Management System
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-3.x-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Marshmallow-Validation-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-RESTful-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-informational?style=for-the-badge" />
+</p>
+
 Production-ready пример корпоративного веб-приложения, построенного по принципам чистой архитектуры и enterprise-разработки.
 
 Проект демонстрирует:
